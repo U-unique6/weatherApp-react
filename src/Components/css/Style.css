@@ -61,7 +61,7 @@
     outline: none;
     border:none;
     letter-spacing: 1px;
-    text-align: center;
+   
    
 }
 
@@ -93,8 +93,8 @@
 
 .cross{
     position: absolute;
-    top: 26px;
-    right:-10px;
+    top: 50%;
+    right:-10%;
    
 }
 

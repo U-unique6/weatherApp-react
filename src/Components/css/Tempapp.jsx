@@ -30,7 +30,7 @@ const Tempapp=()=>{
         <div className="input d-flex flex-column align-items-center">
             <div className="inputData text-center">
                 <input type="search"
-                className="inputField mt-4 p-1"
+                className="inputField mt-4 p-2 px-4"
                 placeholder="Enter the City Name"
                 value={search}
                 onChange={(event)=>{
